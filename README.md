@@ -2,7 +2,7 @@
 
 ## Student
 
-**Pranith Varma**  
+**Pranith Varma Pakalapati**  
 MS Computer Software Engineering  
 San Jose State University
 

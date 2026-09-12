@@ -47,12 +47,8 @@ https://youtu.be/EbGIbGuOWpA
 
 https://youtu.be/5fAuANO59UM
 
-[Submission checklist](SUBMISSION_CHECKLIST.md)
 
 ## Instructor Reference Repository
 
 https://github.com/dlmastery/data_science_examples
 
-## Repository Notes
-
-The project emphasizes reproducibility, transparent documentation, and human verification of AI-assisted outputs. Results and limitations are documented as observed rather than being presented as stronger claims than the underlying experiments support.

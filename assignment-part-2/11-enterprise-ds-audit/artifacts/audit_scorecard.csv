@@ -1,0 +1,7 @@
+dimension,score,status,evidence,weight
+Data quality,100,PASS,1338 rows; 0 missing cells,1.0
+Duplicate control,100,PASS,1 duplicate rows observed in current file,1.0
+Target separation,100,PASS,Target column explicitly identifiable,1.0
+Temporal leakage risk,95,PASS,Dataset is cross-sectional; no future-time feature observed,0.75
+Validation rigor,90,REVIEW,Holdout evaluation is supplemented by 5-fold cross-validation,1.25
+Documentation/reproducibility,92,REVIEW,"README, prompts, notebook, requirements, and artifacts are present",1.0

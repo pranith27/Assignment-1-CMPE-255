@@ -1,0 +1,7 @@
+Project,Reference experiment,Core concept,Primary adaptation
+10,CRISP-DM Master's Platform,7-phase analytical workflow,Single deterministic Python pipeline with consolidated scorecard
+11,Enterprise DS Audit,Six-dimension governance scorecard,Audit applied to Assignment 1 with explicit review flags
+12,TimePulse Forecasting,Seasonality plus walk-forward forecasting,Seasonal-naive baseline and exported predictions
+13,NYC TLC Mobility Platform,Trip analytics and fare modeling,Derived distance/time features and mobility segments on synthetic data
+14,AutoGluon Multimodal Suite,Text+vision+tabular fusion,Lightweight local features plus OOF stacking and ablation
+15,SPY SOTA TimeSeries Alpha,Leakage-safe financial forecasting,Log returns, expanding walk-forward test, risk metrics on synthetic proxy

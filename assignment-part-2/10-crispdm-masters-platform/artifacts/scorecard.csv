@@ -1,0 +1,6 @@
+metric,value
+best_cluster_k,3.0
+silhouette,0.2677085748048349
+regression_r2,0.9288451480048153
+outlier_rate,0.05
+top_lsh_cosine,0.9988880573587016
